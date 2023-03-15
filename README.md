@@ -1,1 +1,1 @@
-# working throuhg the roguelike tutorial at https://rogueliketutorials.com/tutorials/tcod/v2/
+# working through the roguelike tutorial at https://rogueliketutorials.com/tutorials/tcod/v2/
